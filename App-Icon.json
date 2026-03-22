@@ -1,0 +1,10 @@
+{
+    "name": "Solatre App Icon",
+    "description": "Desing by Solatre",
+    "icons": [
+        {
+            "name": "Forward",
+            "url": "https://raw.githubusercontent.com/Solatre/IconLibrary/main/App/Forward.png"
+        }
+    ]
+}

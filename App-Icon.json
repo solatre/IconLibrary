@@ -3,6 +3,9 @@
     "description": "Desing by Solatre",
     "icons": [
         {
+            "name": "Emby",
+            "url": "https://iconlibary.solatre.cn/App/Emby.png"
+        },{
             "name": "Forward",
             "url": "https://iconlibary.solatre.cn/App/Forward.png"
         },{

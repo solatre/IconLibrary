@@ -4,49 +4,49 @@
     "icons": [
         {
             "name": "Emby",
-            "url": "https://iconlibary.solatre.cn/App/Emby.png"
+            "url": "https://raw.githubusercontent.com/solatre/IconLibrary/main/App/Emby.png"
         },{
             "name": "Forward",
-            "url": "https://iconlibary.solatre.cn/App/Forward.png"
+            "url": "https://raw.githubusercontent.com/solatre/IconLibrary/main/App/Forward.png"
         },{
             "name": "Qishe",
-            "url": "https://iconlibary.solatre.cn/App/qishe.png"
+            "url": "https://raw.githubusercontent.com/solatre/IconLibrary/main/App/qishe.png"
         },{
             "name": "Qishe1",
-            "url": "https://iconlibary.solatre.cn/App/qishe1.png"
+            "url": "https://raw.githubusercontent.com/solatre/IconLibrary/main/App/qishe1.png"
         },{
             "name": "Qiyou",
-            "url": "https://iconlibary.solatre.cn/App/Qiyou.png"
+            "url": "https://raw.githubusercontent.com/solatre/IconLibrary/main/App/Qiyou.png"
         },{
             "name": "Qiyou1",
-            "url": "https://iconlibary.solatre.cn/App/Qiyou1.png"
+            "url": "https://raw.githubusercontent.com/solatre/IconLibrary/main/App/Qiyou1.png"
         },{
             "name": "Spotify",
-            "url": "https://iconlibary.solatre.cn/App/Spotify.png"
+            "url": "https://raw.githubusercontent.com/solatre/IconLibrary/main/App/Spotify.png"
         },{
             "name": "Swiftgram",
-            "url": "https://iconlibary.solatre.cn/App/Swiftgram.png"
+            "url": "https://raw.githubusercontent.com/solatre/IconLibrary/main/App/Swiftgram.png"
         },{
             "name": "Swiftgram1",
-            "url": "https://iconlibary.solatre.cn/App/Swiftgram1.png"
+            "url": "https://raw.githubusercontent.com/solatre/IconLibrary/main/App/Swiftgram1.png"
         },{
             "name": "Tangxin",
-            "url": "https://iconlibary.solatre.cn/App/Tangxin.png"
+            "url": "https://raw.githubusercontent.com/solatre/IconLibrary/main/App/Tangxin.png"
         },{
             "name": "Tangxin1",
-            "url": "https://iconlibary.solatre.cn/App/Tangxin1.png"
+            "url": "https://raw.githubusercontent.com/solatre/IconLibrary/main/App/Tangxin1.png"
         },{
             "name": "WeChat",
-            "url": "https://iconlibary.solatre.cn/App/WeChat.png"
+            "url": "https://raw.githubusercontent.com/solatre/IconLibrary/main/App/WeChat.png"
         },{
             "name": "WeChat1",
-            "url": "https://iconlibary.solatre.cn/App/WeChat1.png"
+            "url": "https://raw.githubusercontent.com/solatre/IconLibrary/main/App/WeChat1.png"
         },{
             "name": "X",
-            "url": "https://iconlibary.solatre.cn/App/X.png"
+            "url": "https://raw.githubusercontent.com/solatre/IconLibrary/main/App/X.png"
         },{
             "name": "X1",
-            "url": "https://iconlibary.solatre.cn/App/X1.png"
+            "url": "https://raw.githubusercontent.com/solatre/IconLibrary/main/App/X1.png"
         }
     ]
 }
